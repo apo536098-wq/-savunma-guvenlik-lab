@@ -1,0 +1,13 @@
+# Gizli bilgiler ve yerel dosyalar
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+*.py[cod]
+
+# Editörler / işletim sistemleri
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
